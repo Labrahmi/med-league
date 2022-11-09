@@ -1,0 +1,25 @@
+@font-face {
+	font-family: Stretch;
+	src: url('./fonts/StretchPro.otf');
+}
+/* Azonix */
+@font-face {
+	font-family: Azonix;
+	src: url('./fonts/Azonix.otf');
+}
+@font-face {
+	font-family: Barc1;
+	src: url('./fonts/Barcelona.otf');
+}
+@font-face {
+	font-family: Barc2;
+	src: url('./fonts/Barcelonait.otf');
+}
+@font-face {
+	font-family: Qualy;
+	src: url('./fonts/Qualy_Bold.ttf');
+}
+@font-face {
+	font-family: nums;
+	src: url('./fonts/nums_.otf');
+}
